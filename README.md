@@ -7,11 +7,18 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔐 Passionate about Cybersecurity & Ethical Hacking  
-- 💼 Currently working as a VAPT Intern  
-- 🎯 Actively seeking entry-level VAPT / Application Security roles  
-- 🌐 Focused on Web Application Security & Network Security  
-- 🚀 Learning Advanced Penetration Testing Techniques  
+
+🎓 Cybersecurity enthusiast currently working as a VAPT Intern,
+focused on Web Application & Network Security.
+
+🔐 Skilled in identifying vulnerabilities using OWASP Top 10,
+with hands-on experience in Burp Suite, Nmap, Wireshark,
+and Metasploit.
+
+🎯 Actively seeking entry-level roles in Penetration Testing
+and Application Security.
+
+🏁 Building real-world security projects & improving daily
 
 ---
 
@@ -47,15 +54,7 @@
 
 - Identified multiple open ports and services using Nmap (SSH, HTTP, FTP)  
 - Analyzed real-time network traffic using Wireshark  
-- Configured UFW firewall rules to secure network services  
-
----
-
-### 🔹 Web Application Penetration Testing (DVWA)  
-
-- Exploited SQL Injection & XSS vulnerabilities in a controlled lab  
-- Performed manual testing using Burp Suite (Proxy, Repeater)  
-- Created detailed vulnerability reports with remediation steps  
+- Configured UFW firewall rules to secure network services 
 
 ---
 
